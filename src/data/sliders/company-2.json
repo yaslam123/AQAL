@@ -1,0 +1,23 @@
+{
+  "title": "What We Have Done",
+  "subtitle": "Work",
+  "description": "At Aqal Engineering Solutions, we take pride in our completed projects that combine innovation, sustainability, and cultural heritage. From resilient housing developments to community infrastructure, each project reflects our commitment to excellence.",
+  "button": {
+    "label": "See Projects",
+    "link": "/portfolio"
+  },
+  "items": [
+    {
+      "image": "/img/photo/8.jpg",
+      "alt": "image"
+    },
+    {
+      "image": "/img/photo/7.jpg",
+      "alt": "image"
+    },
+    {
+      "image": "/img/photo/1.jpg",
+      "alt": "image"
+    }
+  ]
+}

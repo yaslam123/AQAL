@@ -1,0 +1,21 @@
+{
+  "title": "We Turn Visions Into Reality",
+  "description": "At Aqal Engineering Solutions, we bring ideas to life by blending modern engineering practices with cultural heritage and sustainability. From resilient infrastructures to green building designs, every project is crafted with precision, creativity, and a commitment to excellence.",
+  "items": [
+    {
+      "title": "Architecture",
+      "text": "Designing innovative, sustainable structures that withstand environmental challenges and honor Somali cultural heritage.",
+      "link": "/services/service-1"
+    },
+    {
+      "title": "Interior Design",
+      "text": "Creating functional and aesthetic interior spaces that reflect modern sensibilities while incorporating traditional elements.",
+      "link": "/services/service-2"
+    },
+    {
+      "title": "Planning",
+      "text": "Expert planning services that ensure every project is executed efficiently, on time, and within budget, with a focus on community impact and sustainability.",
+      "link": "/services/service-3"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Our Soul",
+  "subtitle": "Good Vision",
+  "button": {
+    "label": "See All",
+    "link": "/blog"
+  },
+  "items": [
+    {
+      "title": "Professionals",
+      "icon": "/img/icons/11.svg",
+      "text": "Our team consists of experienced engineers, architects, and project managers dedicated to delivering resilient and sustainable solutions. With their expertise, we ensure every project meets the highest standards of quality and innovation."
+    },
+    {
+      "title": "Programs",
+      "icon": "/img/icons/11.svg",
+      "text": "We design and implement programs aimed at empowering communities. These include capacity-building initiatives, training programs, and development projects to foster economic growth and improve the quality of life."
+    },
+    {
+      "title": "Technology",
+      "icon": "/img/icons/11.svg",
+      "text": "We leverage cutting-edge technology and best practices in engineering and construction. From sustainable building materials to advanced design tools, we integrate innovation into every aspect of our work."
+    }
+  ]
+}

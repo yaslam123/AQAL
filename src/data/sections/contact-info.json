@@ -1,0 +1,16 @@
+{
+  "button": {
+    "label": "Find a Space",
+    "link": "/contact"
+  },
+  "items": [
+    {
+      "label": "Email address",
+      "value": "info@aqalengineering.com"
+    },
+    {
+      "label": "Free Consultation",
+      "value": "(252) 614 462 979"
+    }
+  ]
+}

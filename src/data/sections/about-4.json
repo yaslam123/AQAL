@@ -1,0 +1,20 @@
+{
+  "title": "Years of Experience",
+  "subtitle": "Our Experts",
+  "description": "Aqal Engineering Solutions has a proven track record of delivering resilient and innovative projects across Somalia, combining decades of expertise with a passion for sustainability and cultural preservation.",
+  "image": {
+    "url": "/img/photo/14.jpg",
+    "alt": "image"
+  },
+  "avatar": {
+    "image": "/img/faces/1.jpg",
+    "name": "Saddam Khalif",
+    "subname": "Chief Executive Officer"
+  },
+  "items": [
+    "Over 250 successful projects completed across Somalia.",
+    "Over 10 years of expertise in sustainable engineering and design.",
+    "Resilient housing and health centers built in urban and rural areas.",
+    "Partnerships with leading global organizations for development."
+  ]
+}

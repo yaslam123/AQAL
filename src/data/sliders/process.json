@@ -1,0 +1,26 @@
+{
+  "title": "Our process",
+  "subtitle": "How it Works",
+  "slides": [
+    [
+      {
+        "title": "We Hear",
+        "text": "We Hear We begin by understanding our clients' needs, goals, and challenges. By actively listening, we tailor solutions to meet their unique requirements."
+      },
+      {
+        "title": "We Give Ideas",
+        "text": "We Give Ideas Our expert team collaborates to develop innovative and culturally enriched concepts that integrate resilience, sustainability, and efficiency."
+      },
+      {
+        "title": "We Plan",
+        "text": "We Plan the Bases With clear ideas in mind, we create comprehensive plans, allocate resources effectively, and ensure all elements align with project goals and safety standards."
+      }
+    ],
+    [
+      {
+        "title": "We Execute",
+        "text": "We Execute with Precision Every step of the construction process is handled with a focus on quality, sustainability, and community impact, ensuring project success."
+      }
+    ]
+  ]
+}

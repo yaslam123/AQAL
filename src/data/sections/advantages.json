@@ -1,0 +1,23 @@
+{
+  "title": "We Take Care of Everything <br>for You!",
+  "subtitle": "Our Advantages",
+  "description": "At Aqal Engineering Solutions, we handle every aspect of your project with precision, ensuring the highest quality, safety, and satisfaction. From the initial consultation to project delivery, we work collaboratively with you to create resilient, sustainable, and culturally rich infrastructures that stand the test of time.",
+  "items": [
+    {
+      "title": "Listen",
+      "text": "We start by understanding your vision and requirements. Our team listens to your goals, preferences, and concerns to ensure that our designs reflect your needs while honoring the unique context of each project."
+    },
+    {
+      "title": "Strategies",
+      "text": "We create tailored strategies that balance innovation, cultural integration, and sustainability. Our goal is to provide solutions that meet international standards while respecting the environmental and cultural landscape of Somalia"
+    },
+    {
+      "title": "Project Work",
+      "text": "Our experienced engineers and project managers execute each project with meticulous attention to detail. We maintain regular communication and ensure all tasks are completed within the defined time frame and budget."
+    },
+    {
+      "title": "Launch",
+      "text": "We ensure a seamless project handover with all systems functioning efficiently and to the highest standards. Post-launch, we offer continued support and maintenance to ensure your project’s long-term success."
+    }
+  ]
+}

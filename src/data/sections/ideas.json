@@ -1,0 +1,26 @@
+{
+  "title": "Transforming Ideas into Sustainable Realities",
+  "subtitle": "Taban's Purpuse",
+  "description": "At Aqal Engineering Solutions, we bring ideas to life by blending modern engineering practices with cultural heritage and sustainability. From resilient infrastructures to green building designs, every project is crafted with precision, creativity, and a commitment to excellence.",
+  "button": {
+    "link": "/about",
+    "label": "More About Us"
+  },
+  "items": [
+    {
+      "icon": "/img/icons/3.svg",
+      "link": "/services/service-1",
+      "label": "Architecture"
+    },
+    {
+      "icon": "/img/icons/4.svg",
+      "link": "/services/service-2",
+      "label": "Interiors"
+    },
+    {
+      "icon": "/img/icons/5.svg",
+      "link": "/services/service-3",
+      "label": "Planning"
+    }
+  ]
+}

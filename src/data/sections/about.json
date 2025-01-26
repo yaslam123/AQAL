@@ -1,0 +1,17 @@
+{
+  "image": {
+    "url": "/img/photo/2.jpg",
+    "alt": "img"
+  },
+  "number": {
+    "value": "5",
+    "label": "<span class=\"mil-marker\">Years</span> of <br/> Combined <br/>Expertise"
+  },
+  "title": "Great Experience",
+  "subtitle": "About Aqal Engineering Solutions",
+  "description": "With a commitment to delivering excellence and innovation, Aqal Engineering Solutions is transforming Somalia’s infrastructure through resilient, sustainable, and culturally integrated projects. Our team brings together decades of experience in civil engineering, construction, and project management, ensuring that every project meets the highest standards of quality and safety.",
+  "button": {
+    "link": "https://www.youtube.com/watch?v=HR4giV4oUjI",
+    "label": "Watch video"
+  }
+}

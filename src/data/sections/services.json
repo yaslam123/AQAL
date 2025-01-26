@@ -1,0 +1,27 @@
+{
+  "title": "What We Do",
+  "subtitle": "Services",
+  "items": [
+    {
+      "icon": "/img/icons/3.svg",
+      "num": "01.",
+      "title": "Resilient Engineering & Construction",
+      "text": "We design and construct buildings and infrastructures that are resilient, durable, and capable of withstanding environmental challenges like floods, earthquakes, and extreme weather conditions. Our focus is on longevity and sustainability.",
+      "link": "/services/service-1"
+    },
+    {
+      "icon": "/img/icons/4.svg",
+      "num": "02.",
+      "title": "Cultural Heritage Integration",
+      "text": "We integrate Somalia’s rich cultural heritage into modern engineering and construction, blending traditional architectural elements with contemporary designs. This ensures that our projects are not just functional but also reflective of the communities they serve.",
+      "link": "/services/service-3"
+    },
+    {
+      "icon": "/img/icons/5.svg",
+      "num": "03.",
+      "title": "Sustainable and Green Building",
+      "text": "Our projects are built with sustainability in mind. We use eco-friendly materials and energy-efficient designs to minimize environmental impact and create a positive footprint for future generations.",
+      "link": "/services/service-2"
+    }
+  ]
+}

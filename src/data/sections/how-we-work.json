@@ -1,0 +1,21 @@
+{
+  "title": "This is How We Build Excellence",
+  "subtitle": "How We Work",
+  "items": [
+    {
+      "title": "High Efficiency",
+      "icon": "/img/icons/7.svg",
+      "text": "We pride ourselves on our streamlined processes that maximize productivity and minimize waste. By employing efficient construction methods and meticulous project management, we deliver projects on time and within budget."
+    },
+    {
+      "title": "Team of Experts",
+      "icon": "/img/icons/8.svg",
+      "text": "Our team consists of highly skilled professionals with extensive experience in the construction industry. Led by Engr Sadam Hussein Khalif, our experts are dedicated to providing top-tier service and innovative solutions for every project."
+    },
+    {
+      "title": "Advanced Technology",
+      "icon": "/img/icons/9.svg",
+      "text": "We use cutting-edge technology and modern engineering tools to design and construct resilient, sustainable structures. From 3D modeling to advanced project management software, our technology-driven approach guarantees superior results."
+    }
+  ]
+}

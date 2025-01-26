@@ -1,0 +1,38 @@
+{
+  "title": "We provide services <span class=\"mil-marker\">and</span> solutions",
+  "subtitle": "Our Company",
+  "description": "At Aqal Engineering Solutions, we specialize in delivering resilient engineering services and innovative solutions tailored to Somalia’s unique infrastructure needs. From sustainable construction to renewable energy systems, our expertise empowers communities and preserves cultural heritage. “At Aqal, every project is a step towards building a stronger, greener, and more resilient Somalia.”",
+  "signature": {
+    "name": "Saddam Khalif",
+    "subname": "Chief Executive Officer",
+    "text": "E.sadam"
+  },
+  "links": [
+    {
+      "title": "Morphological Thinking",
+      "link": "/services/service-1"
+    },
+    {
+      "title": "Creative Architectural",
+      "link": "/services/service-2"
+    },
+    {
+      "title": "Planning Designs",
+      "link": "/services/service-3"
+    }
+  ],
+  "items": [
+    {
+      "image": "/img/photo/2.jpg",
+      "alt": "image"
+    },
+    {
+      "image": "/img/photo/8.jpg",
+      "alt": "image"
+    },
+    {
+      "image": "/img/photo/7.jpg",
+      "alt": "image"
+    }
+  ]
+}

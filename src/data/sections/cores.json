@@ -1,0 +1,32 @@
+{
+  "bg_image": "/img/photo/3 (2).jpg",
+  "title": "The Whole Difference",
+  "subtitle": "Our Core",
+  "description": "At Aqal Engineering Solutions, we believe in delivering more than just projects we create lasting legacies that empower communities and honor heritage. Our core values guide everything we do, ensuring every project is a reflection of excellence, sustainability, and transparency.",
+  "button": {
+    "link": "/services",
+    "label": "Read More"
+  },
+  "items": [
+    {
+      "title": "Team of Experts",
+      "text": "Our multidisciplinary team of experienced engineers, architects, and project managers ensures the highest standards of professionalism and expertise in every project we undertake. We are committed to delivering solutions that meet and exceed expectations."
+    },
+    {
+      "title": "Creativity and Innovation",
+      "text": "We combine traditional Somali architectural elements with modern engineering practices, creating innovative and culturally rich designs that stand out in the market. Our creative approach ensures that every project is unique and forward-thinking."
+    },
+    {
+      "title": "Technology",
+      "text": "We leverage cutting-edge technology and the latest tools in engineering and construction, from 3D modeling to advanced project management software, ensuring precision, efficiency, and superior results for all our projects."
+    },
+    {
+      "title": "Sustainability",
+      "text": "Sustainability is at the heart of everything we do. We integrate eco-friendly materials and energy-efficient systems into our designs, minimizing environmental impact and ensuring the longevity of our structures"
+    },
+    {
+      "title": "Honesty and Transparency",
+      "text": "We pride ourselves on maintaining honest and transparent communication with our clients. From project inception to completion, we keep our clients informed every step of the way, ensuring trust and satisfaction"
+    }
+  ]
+}
